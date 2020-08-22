@@ -1,0 +1,27 @@
+body {font-family: helvetica ;
+	}
+h1 {color : green;
+	background-color: black;}
+span > p {
+	font-family: verdana ;
+	font-size: 20px;
+	color : green;
+	}
+div >span {
+	font-size: 25px;
+	color : green;
+	}
+
+div h3 {
+	color :white;
+	background: green;
+	}
+div b {
+	color : green;
+	}
+#Projects{
+
+}
+#contact {
+	font-family: formata;
+	}
